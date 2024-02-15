@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Day 1</title>
+</head>
+<body>
+<script>
+let name = "Hello,World!";
+var rollno = 140;
+let value = true;
+console.log("name:",name);
+console.log(rollno);
+console.log(value);
+console.log(12+10);
+console.log(12-10);
+console.log(12/10);
+console.log(12*10);
+let str1 = "sana";
+let str2 = "nda";
+console.log(str1+str2);
+console.log(typeof rollno);
+console.log(typeof name);
+console.log(typeof true);
+console.log(typeof "sana");//returns the data type of its operand in the form of a string
+//this is inline comment which is used to write command in single line
+/*this is multi-line comment which is used to write commands
+for two or more lines */
+var dept = "ETE" ; let clg = "KCE" ; var month = "Aug" ; var year = 2023
+console.log(dept);console.log(clg);console.log(month);console.log(year);
+</script>
+</body>
+</html>
+
+
